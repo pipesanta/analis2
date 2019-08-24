@@ -1,1 +1,2 @@
 *.json filter=lfs diff=lfs merge=lfs -text
+university_of_antioquia.json filter=lfs diff=lfs merge=lfs -text
